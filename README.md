@@ -1,4 +1,4 @@
-# python-beginners-projects
+###python-beginners-projects
 Table of Contents	
 Python Project Ideas
 Python Project Ideas: Beginners Level
